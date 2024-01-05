@@ -694,3 +694,5 @@ A lot of the app currently piggybacks on Google's existing support for fetching 
 
 #### Mobile
 ![Whoogle Mobile](docs/screenshot_mobile.png)
+
+
